@@ -13,7 +13,6 @@ Syntax highlighted code block
 
 # Aneesh's First CS193 Homework
 ## Things I like about CS190
-### Header 3
 
 - Class is run by TA's
 - I have the opportunity to learn about the tools for the coding world
